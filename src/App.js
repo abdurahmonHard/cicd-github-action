@@ -4,7 +4,11 @@ import './App.css';
 //         o'sha kodni and yuzer foydalanuchiga tug'ridan tug'ri yetkazib berishni aftomatlashtirish ci cd deyiladi
 //         bu jarayon ichiga eslint, yunit testing, integretion testing,  countinion integration bo'ladi countinion delevery qismiga o'tadi -->
 //         countinion delevery qismi ham qaysi tehnalogiya ligiga qarab yoki kod deploy qilinayotgan server turiga qarab har hil boladi 
-
+//         CI/CD
+//         Agile methodology
+//         Scrum methodology
+//         Working with Sprint iterations
+//         interaction and countinion integration and countinius delevery tool and deployment pipeline
 function App() {
   return (
     <div className="App">
